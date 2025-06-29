@@ -2,7 +2,7 @@
 
 This repo provides technical resources to help students and faculty learn about Azure and teach others. The content covers cross-platform scenarios in artificial intelligence and machine learning, data science, web development, mobile app dev, internet of things, and DevOps. It also includes interesting tech talks and engaging, fun tech challenges.
 
-## Learn by Doing with our Curricula
+## Learn by sampling our Curricula
 
 Check out our project-based [full semester-long curricula](./curricula.md) that can be used on your own or in the classroom. They also make for fun, easy-to-run workshops!
 
